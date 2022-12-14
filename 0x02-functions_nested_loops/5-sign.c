@@ -3,7 +3,7 @@
 /**
  * print_sign - return 0 letter not lowercase, 1 letter lowercase
  *
- * @c: number to check
+ * @n: number to check
  * Return: 0 or 1
  */
 int print_sign(int n)
